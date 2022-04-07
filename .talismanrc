@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: regexes.json
+  checksum: 7ef9749e6e4c68a791efdb25c0fab28da8996ff33cbcc7cda8642b6b1a818605
+version: "1.0"
